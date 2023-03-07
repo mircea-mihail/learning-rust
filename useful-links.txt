@@ -1,3 +1,4 @@
 rustup doc:     https://doc.rust-lang.org/std/index.html
 learn rust:     https://www.rust-lang.org/learn
 crash course:   https://stevedonovan.github.io/rust-gentle-intro/
+project euler:	https://projecteuler.net/
