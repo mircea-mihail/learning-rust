@@ -28,8 +28,7 @@
 
 // this is a classic dynamic programming problem
 // the code speaks for itself but the main idea is to store the maximum option each 
-// position in the matrix on that position and at the end find the maximum value 
-// in the matrix
+// position has right there and at the end find the maximum value in the matrix
 
 fn print_mat(mat: Vec<Vec<i32>>){
     for i in 0..mat.len(){
@@ -38,7 +37,6 @@ fn print_mat(mat: Vec<Vec<i32>>){
         }
         println!();
     }
-
 }
 
 fn biggest(a :i32, b: i32) -> i32{
